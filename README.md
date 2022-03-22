@@ -1,8 +1,8 @@
 ### Hi there 👋
-<a href="https://www.instagram.com/gokhanjs/">
+<a href="https://www.instagram.com/gokhanjs/" target="_blank">
   <img align="left" alt="Gokhan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/gokhan-yildiz-80b8b3192/">
+<a href="https://www.linkedin.com/in/gokhan-yildiz-80b8b3192/" target="_blank">
   <img align="left" alt="Gokhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
