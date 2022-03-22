@@ -1,4 +1,10 @@
 ### Hi there 👋
+<a href="https://www.instagram.com/gokhanjs/">
+  <img align="left" alt="Gokhan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/gokhan-yildiz-80b8b3192/">
+  <img align="left" alt="Gokhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!--
 **gokhanjs/gokhanjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
