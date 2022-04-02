@@ -27,7 +27,7 @@
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 
-
-**📊 My Github Stats** 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gokhanjs&show_icons=true&count_private=true&hide=stars)
+<details align="left">
+    <summary>📊 My Github Stats</summary>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gokhanjs&show_icons=true&count_private=true&hide=stars" alt="gokhanjs"/>
+</details>
