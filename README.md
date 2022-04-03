@@ -29,5 +29,6 @@
 
 <details align="left">
     <summary>📊 My Github Stats</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gokhanjs&show_icons=true&count_private=true&hide=stars" alt="gokhanjs"/>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </details>
