@@ -33,9 +33,10 @@
     <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 15 mins   ███████████████████░░░░░░   76.25 %
-PHP          1 hr 19 mins    ██████░░░░░░░░░░░░░░░░░░░   23.73 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript       4 hrs 15 mins   ██████████████████▓░░░░░░   74.56 %
+PHP              1 hr 21 mins    ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
