@@ -30,7 +30,7 @@
 
 <details align="left">
     <summary>📊 My Github Stats</summary>
-    <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```text
 JavaScript       12 hrs 3 mins   ██████████████▒░░░░░░░░░░   57.77 %
