@@ -33,11 +33,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP              7 hrs 40 mins   ███████████████████░░░░░░   76.31 %
-Blade Template   1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-JavaScript       45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+PHP              8 hrs 43 mins   ████████████████████░░░░░   79.83 %
+Blade Template   1 hr 56 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
+JavaScript       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
