@@ -8,8 +8,8 @@
 
 **My name is Gokhan and there are some facts about me:**
 
-- From Turkey🔥, Izmir
-- I'm developing Frontend projects and I'm on my way to become a full stack programmer by learning Backend.
+- From Turkey🔥, Sivas
+- I specialize in web application development as a software developer. I have been working on personal projects for the past four years and real-life projects for the last two years, using JavaScript, React (NextJS), and PHP programming languages. I am constantly learning new technologies and adapting to them to improve the performance of my projects. I am confident in my ability to learn new programming languages and find solutions to any problems I encounter.
 - You can reach me via email [gokhan7098@gmail.com](mailto:gokhan7098@gmail.com)
 
 ### 🔧 Technologies & Tools
