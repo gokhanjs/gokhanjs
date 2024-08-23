@@ -5,7 +5,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgokhanjs%2Fgokhanjs&labelColor=%23f47373&countColor=%23263759)
 
 
-**My name is Gokhan and there are some facts about me:**
+**My name is Gokhan and some facts about me:**
 
 - From Turkey🔥, Sivas
 - I specialize in web application development as a software developer. I have been working on personal projects for the past four years and real-life projects for the last two years, using JavaScript, React (NextJS), and PHP programming languages. I am constantly learning new technologies and adapting to them to improve the performance of my projects. I am confident in my ability to learn new programming languages and find solutions to any problems I encounter.
