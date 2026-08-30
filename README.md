@@ -1,7 +1,7 @@
 ## Hi, I'm Gökhan 👋
 
 Senior full-stack engineer based in Türkiye. I design and ship production
-B2B/B2C systems — booking & channel integrations, payment gateways,
+B2B/B2C systems booking & channel integrations, payment gateways,
 document automation, and AI-augmented internal tools.
 
 Currently @ **Baras Global**, where I architect:
@@ -11,7 +11,7 @@ Currently @ **Baras Global**, where I architect:
 - Price-intelligence scraping & analysis
 - Microservices for B2B platforms
 
-Available for select contract & freelance engagements —
+Available for select contract & freelance engagements 
 booking systems, AI agents, and API integration.
 
 ### Stack
@@ -22,7 +22,7 @@ booking systems, AI agents, and API integration.
 **Integrations:** Payment gateways · OAuth · Webhooks · WhatsApp Business
 **Infra & DevOps:** Docker · Ubuntu · PM2 · Supervisor · Plesk · GitHub Actions
 
-Comfortable with **Figma & Photoshop** — can ship pixel-accurate UIs without designer handoff.
+Comfortable with **Figma & Photoshop** can ship pixel-accurate UIs without designer handoff.
 
 ### Reach me
 
